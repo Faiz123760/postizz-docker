@@ -39,6 +39,8 @@ docker compose up
 
 Wait for it to load:
 
+# postizz-docker
+
 Open your website on https://localhost:4007
 
 ---
